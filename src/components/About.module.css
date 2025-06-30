@@ -1,0 +1,42 @@
+
+.AboutBlock{
+    height: 147vh;
+    color: red;
+}
+
+.AboutBlock >h1{
+    font-size: 27px;
+}
+
+.AboutBlock >h2{
+    font-size: 27px;
+}
+
+.AboutBlock >h3{
+    font-size: 27px;
+}
+
+.AboutBlock >h4{
+    font-size: 27px;
+}
+
+.AboutBlock >h5{
+    font-size: 27px;
+}
+
+.AboutBlock >h6{
+    font-size: 27px;
+}
+
+.AboutBlock >p{
+    font-size: 20px;
+}
+
+.AboutBlock >a{
+    text-decoration: none;
+    margin-left: 700px;
+    background-color: blueviolet;
+    color: white;
+    padding: 12px 23px;
+    border-radius: 13px 13px 13px 13px;
+}

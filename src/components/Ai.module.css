@@ -1,0 +1,47 @@
+
+.logoBlock >h1{
+    position: fixed;
+    top: 7px;
+    left: 220px;
+    font-size: 37px;
+    color: red;
+}
+
+.logoBlock >h2{
+    position: fixed;
+    top: 60px;
+    left: 140px;
+    font-size: 22px;
+    color: red;
+}
+
+.menuBlock{
+    width: 100%;
+    height: 15vh;
+   box-shadow: 0px 0px 35px 0px blueviolet;
+}
+
+.menuBlock >ul{
+    list-style: none;
+    display: flex;
+    position: fixed;
+    top: 30px;
+    left: 700px;
+}
+
+.menuBlock >ul >li >a{
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 90px;
+}
+
+.menuBlock >ul >li >a:hover{
+    color: red;
+}
+
+.imageBlock >img{
+    width: 99%;
+    height: 81vh;
+    position: fixed;
+    top: 137px;
+}

@@ -1,0 +1,126 @@
+
+.loginForm >form{
+    box-shadow: 0px 0px 35px 0px red;
+    width: 34%;
+    height: 64vh;
+    position: fixed;
+    top: 187px;
+    left: 572px;
+    background-color: rgba(0, 0, 255, 0.505);
+}
+.loginForm >form:hover{
+    background-color: blueviolet;
+}
+
+
+.loginForm >form >h3{
+    position: fixed;
+    top: 201px;
+    left: 758px;
+    font-size: 39px;
+    color: white;
+}
+.loginForm >form >h3:hover{
+    color: black;
+}
+
+
+.UserBlock >input{
+    padding: 12px 63px;
+    position: fixed;
+    top: 312px;
+    left: 648px;
+    background: transparent;
+    color: white;
+    font-size: 19px;
+}
+.UserBlock >input:hover{
+    background-color: rgba(0, 0, 0, 0.836);
+}
+.UserBlock >input::placeholder{
+    color: white;
+    font-size: 19px;
+    position: fixed;
+    left: 28px;
+    top: 9px;
+}
+
+
+.EmailBlock >input{
+    padding: 12px 63px;
+    position: fixed;
+    top: 387px;
+    left: 648px;
+    background: transparent;
+    color: white;
+    font-size: 19px;
+}
+.EmailBlock >input:hover{
+    background-color: rgba(0, 0, 0, 0.836);
+}
+.EmailBlock >input::placeholder{
+    color: white;
+    font-size: 19px;
+    position: fixed;
+    left: 28px;
+    top: 9px;
+}
+
+
+.PasswordBlock >input{
+    padding: 12px 63px;
+    position: fixed;
+    top: 462px;
+    left: 648px;
+    background: transparent;
+    color: white;
+    font-size: 19px;
+}
+.PasswordBlock >input:hover{
+    background-color: rgba(0, 0, 0, 0.836);
+}
+.PasswordBlock >input::placeholder{
+    color: white;
+    font-size: 19px;
+    position: fixed;
+    left: 28px;
+    top: 9px;
+}
+
+
+.ButtonBlock >button{
+    padding: 11px 90px;
+    position: fixed;
+    top: 550px;
+    left: 720px;
+    font-size: 19px;
+    border-radius: 6px 6px 6px 6px;
+    background-color: rgba(30, 143, 255, 0.608);
+    color: white;
+}
+.ButtonBlock >button:hover{
+    background-color: blueviolet;
+}
+
+
+.loginForm >h1{
+    position: fixed;
+    top: 20px;
+    left: 780px;
+    font-size: 56px;
+    color: red;
+}
+.loginForm >h1:hover{
+    color: orange;
+}
+
+.loginForm >h2{
+    position: fixed;
+    top: 100px;
+    left: 710px;
+    font-size: 26px;
+    color: red;
+}
+.loginForm >h2:hover{
+    color: orange;
+}
